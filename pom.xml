@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.248.175:8081/repository/project/</url>
+            <url>http://192.168.248.178:8081/repository/kumar/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.248.175:8081/repository/project-1-snap/</url>
+            <url>http://192.168.248.178:8081/repository/kumar-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
